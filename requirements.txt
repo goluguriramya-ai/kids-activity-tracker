@@ -1,0 +1,3 @@
+# Web UI dependencies (the CLI itself is stdlib-only)
+Flask>=3.0
+gunicorn>=21.0

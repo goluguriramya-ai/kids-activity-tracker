@@ -1,0 +1,22 @@
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Local activity data (private — never commit family data)
+data/*.json
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/

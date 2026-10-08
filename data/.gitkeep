@@ -1,0 +1,2 @@
+# This folder holds your local activity data.
+# data/*.json is git-ignored so family data never gets committed.
